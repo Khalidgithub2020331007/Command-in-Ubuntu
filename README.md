@@ -11,3 +11,12 @@
     sudo systemctl stop apache2
 # Apache Stop
     sudo systemctl restart apache2
+# Wifi speed test
+Only for 1st time install it:
+```
+sudo apt install speedtest-cli
+```
+Then run this command to cheack net speed:
+```
+speedtest-cli
+```
