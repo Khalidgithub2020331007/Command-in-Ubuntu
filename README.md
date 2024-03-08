@@ -1,5 +1,7 @@
 # Command-in-Ubuntu
-
+# Check IP Adress
+    ip addr
+    ifconfig
 # Cheak Port Adress:
     sudo lsof -i -P -n | grep LISTEN
 
