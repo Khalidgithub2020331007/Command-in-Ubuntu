@@ -1,4 +1,7 @@
 # Command-in-Ubuntu
+# Check Ubuntu Version
+    lsb_release -a
+
 # Check IP Adress
     ip addr
     ifconfig
