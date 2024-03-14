@@ -1,4 +1,12 @@
 # Command-in-Ubuntu
+# MongoDB start
+    sudo systemctl start mongod
+    sudo systemctl status mongod
+or
+```
+sudo systemctl enable mongod
+```
+
 # Check Ubuntu Version
     lsb_release -a
 
